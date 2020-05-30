@@ -1,6 +1,6 @@
 # Breast-Cancer-Classification
 
-This notebook will look into various Python-based machine learning and data science libaries in attempt to build a machine learning model capable of predicting whether or not a tumor is malignantor benign based on their medical attributes.
+This notebook will look into various Python-based machine learning and data science libaries in attempt to build a machine learning model capable of predicting whether or not a tumor is malignant or benign based on their medical attributes.
 
 We're going to take the following approach:
 1. Problem Definition
